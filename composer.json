@@ -1,0 +1,21 @@
+{
+    "name": "mumutou/fyvoip",
+    "description": "feiyu voip sdk",
+    "keywords": [
+        "voip",
+        "feiyu",
+        "feiyu-sdk",
+        "sdk"
+    ],  
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chair.cole",
+            "email": "chair.cole@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php":">=5.5.0",
+    }
+}
